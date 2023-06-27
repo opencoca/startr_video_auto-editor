@@ -57,15 +57,5 @@ Auto-Editor is under the [Public Domain](https://github.com/WyattBlue/auto-edito
 Bitcoin (BTC)
 `bc1qpf8xufyu9klawpy3eyxenn67tedahwpvsu8uyk`
 
-Bitcoin Cash (BCH)
-`qzdw2lg7llcyx5ergjv29e9d98kl89dsm5l47kklr0`
-
-Monero (XMR)
-`4At2qRKPnksfmmJG7QdJSwBsarrFiqMrgBjJbvkohaSLXSPzjYR3jCG4wueJxs2xfoBaEVyCToL8phRkCppTiNsJ55ETyZJ`
-
-Pirate Chain (ARRR)
-`zs19e04x5x52nfrj9yxy8s67zwxl6rn3hxyzz3jem0t5dpvc9d7tnjcqr6ltjpupquw2dykksnculm`
-
-
 ## Issues
-If you have a bug or a code suggestion, you can [create a new issue](https://github.com/WyattBlue/auto-editor/issues/new) here. If you'll like to discuss this project, suggest new features, or chat with other users, you can use [the discord server](https://discord.com/invite/kMHAWJJ).
+If you have a bug or a code suggestion, you can [create a new issue](https://github.com/opencoca/startr_video_auto-editor/issues/new) here. If you'll like to discuss this project, suggest new features, or chat with other users, you can use [the discord server](https://discord.com/invite/kMHAWJJ).
